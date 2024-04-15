@@ -1,1 +1,2 @@
 conda create -p (name) python==(version) -y
+python -m venv (name)
